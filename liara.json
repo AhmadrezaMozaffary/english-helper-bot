@@ -1,0 +1,9 @@
+{
+  "args": ["python bot.py"],
+  "app": "en-bot",
+  "port": 80,
+  "build": {
+    "location": "iran"
+  },
+  "disks": []
+}
