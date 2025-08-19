@@ -1,0 +1,5 @@
+python-telegram-bot==21.10
+language-tool-python==2.7.1
+deep-translator==1.11.4
+langdetect==1.0.9
+python-dotenv
